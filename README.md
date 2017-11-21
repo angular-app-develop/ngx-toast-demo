@@ -1,4 +1,5 @@
 # ngx-toast-demo
+[![npm version](https://img.shields.io/npm/v/ngx-modal-dialog.svg)](https://www.npmjs.com/package/ngx-toast)
 
 ## About
 
